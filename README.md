@@ -234,4 +234,3 @@ curl -X GET "http://127.0.0.1:8000/ratings?ratings_id=<ratings_id>"
 ```
 
 AgenticDB will return the score and feedback associated with the provided ratings ID.
-
